@@ -1,2 +1,3 @@
 # express-fileupload-validator
-Validator for express-fileupload package
+
+Validator for express-fileupload package.
