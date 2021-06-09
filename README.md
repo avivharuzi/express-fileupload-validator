@@ -1,6 +1,6 @@
 # express-fileupload-validator
 
-![NPM](https://img.shields.io/npm/l/express-fileupload-validator.svg) ![GitHub package.json version](https://img.shields.io/github/package-json/v/avivharuzi/express-fileupload-validator.svg) ![CircleCI](https://img.shields.io/circleci/build/github/avivharuzi/express-fileupload-validator/master)
+![NPM](https://img.shields.io/npm/l/express-fileupload-validator.svg) ![GitHub package.json version](https://img.shields.io/github/package-json/v/avivharuzi/express-fileupload-validator.svg) ![CircleCI](https://img.shields.io/circleci/build/github/avivharuzi/express-fileupload-validator)
 
 Validator for [express-fileupload](https://www.npmjs.com/package/express) package.
 
