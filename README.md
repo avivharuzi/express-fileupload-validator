@@ -156,6 +156,18 @@ const expressFileuploadValidator = new ExpressFileuploadValidator({}, {
 });
 ```
 
+### ExpressFileuploadValidator.setOptions(options)
+
+### ExpressFileuploadValidator.getOptions()
+
+### ExpressFileuploadValidator.setErrorMessages(errorMessages)
+
+### ExpressFileuploadValidator.getErrorMessages()
+
+### ExpressFileuploadValidator.validate()
+
+Throws `ExpressFileuploadValidatorErrors` if there are errors.
+
 # License
 
 [MIT](LICENSE)
