@@ -1,10 +1,12 @@
 import { ExpressFileuploadValidator } from './express-fileupload-validator';
+import { ExpressFileuploadValidatorErrors } from './errors';
 
-export * from './errors';
-export * from './types';
+export * from './types/options';
+export * from './types/error-messages';
 
-export default ExpressFileuploadValidator;
-export { ExpressFileuploadValidator };
+export { ExpressFileuploadValidator, ExpressFileuploadValidatorErrors };
 
-module.exports = ExpressFileuploadValidator;
-module.exports.default = ExpressFileuploadValidator;
+module.exports = {
+  ExpressFileuploadValidator,
+  ExpressFileuploadValidatorErrors,
+};
